@@ -46,3 +46,16 @@ p {
   justify-content: center;
   align-content: center;
 }
+
+span {
+  opacity: 0;
+  transition: all 0.5s ease;
+  transform: translateX(500px);
+  display: inline-block;
+}
+
+span.center-each {
+  opacity: 1;
+  transform: translateX(0px);
+  color: blueviolet;
+}
