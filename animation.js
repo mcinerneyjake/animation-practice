@@ -27,7 +27,7 @@ function complete() {
 }
 
 // This is the Top Left text.
-/*const textTopLeft = document.querySelector(".top-left");
+const textTopLeft = document.querySelector(".top-left");
 const stringTextTopLeft = textTopLeft.textContent;
 const splitTextTopLeft = stringTextTopLeft.split("");
 textTopLeft.textContent = "";
@@ -52,4 +52,4 @@ function onRefresh1() {
 function complete1() {
   clearInterval(timer1);
   timer1 = null;
-} */
+}
