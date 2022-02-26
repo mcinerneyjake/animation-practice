@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  padding: 20px;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color: blueviolet;
+}
+
+p {
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.center {
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.top-left {
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.top-right {
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.bottom-left {
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.bottom-right {
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+}
